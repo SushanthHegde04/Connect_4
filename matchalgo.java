@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 
 
-public class TurnScript : MonoBehaviour 
+public class TurnScript 
 {
     public GameObject gameover;
     public GameObject redTurn;
